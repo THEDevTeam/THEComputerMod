@@ -15,7 +15,7 @@ public class THEComputerMod extends CommonPlugin{
 
 	@Override
 	public void onEnable() {
-		log(Level.INFO, "THEIndustrialMod has been enabled");
+		log(Level.INFO, "THEComputerMod has been enabled");
 	}
 
 	public void log(Level warning, String string) {
