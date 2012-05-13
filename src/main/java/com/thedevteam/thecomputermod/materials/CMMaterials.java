@@ -5,7 +5,5 @@ import org.spout.api.material.Material;
 import com.thedevteam.thecomputermod.materials.blocks.Computer;
 
 public class CMMaterials {
-	public void initialize(){
-		Material.register(new Computer("Computer", 400));
-	}
+	public static final Computer COMPUTER = Material.register(new Computer("Computer", 400));
 }
