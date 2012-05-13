@@ -1,0 +1,10 @@
+name: THEComputerMod
+version: 0.0.1
+description: The Computer Mod
+author: THEDevTeam
+
+main: com.thedevteam.thecomputermod.THEComputerMod
+protocol: Minecraft 1.2.4
+load: startup
+
+platform: BOTH
